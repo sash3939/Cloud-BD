@@ -77,3 +77,11 @@ select * from test_table;
 
 *1) Созданной базы данных;*
 *2) Результата вывода команды на реплике ```select * from test_table;```.*
+
+
+[creating_bd](https://github.com/sash3939/Cloud-BD/assets/156709540/1c101e88-ead6-4141-b480-fc43c7adf78b)
+
+[status bd](https://github.com/sash3939/Cloud-BD/assets/156709540/535e6475-f4bb-4001-acee-95eeb5894b6e)
+
+[hosts](https://github.com/sash3939/Cloud-BD/assets/156709540/7d471d6f-fabc-4891-9aef-e5634a2c7ea9)
+
