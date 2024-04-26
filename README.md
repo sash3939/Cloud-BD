@@ -45,6 +45,9 @@ select case when pg_is_in_recovery() then 'REPLICA' else 'MASTER' end;
 select count(*) from pg_stat_replication;
 ```
 
+[connect and replica](https://github.com/sash3939/Cloud-BD/assets/156709540/f3a4fa55-c473-41c6-a0c6-c2c906d1dc4e)
+
+
 ### Проверьте работоспособность репликации в кластере
 
 * Создайте таблицу и вставьте одну-две строки.
@@ -84,4 +87,11 @@ select * from test_table;
 [status bd](https://github.com/sash3939/Cloud-BD/assets/156709540/535e6475-f4bb-4001-acee-95eeb5894b6e)
 
 [hosts](https://github.com/sash3939/Cloud-BD/assets/156709540/7d471d6f-fabc-4891-9aef-e5634a2c7ea9)
+
+[connected db](https://github.com/sash3939/Cloud-BD/assets/156709540/5de541e6-5fd9-4d8e-81b2-dd03eddda08e)
+
+[connected to replica](https://github.com/sash3939/Cloud-BD/assets/156709540/e8bcf3e5-6750-49eb-ad29-0cba50ee9c80)
+
+[request on replica](https://github.com/sash3939/Cloud-BD/assets/156709540/1589d524-1feb-4512-85c8-357bcefb5789)
+
 
